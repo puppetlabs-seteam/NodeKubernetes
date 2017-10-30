@@ -11,5 +11,5 @@ userRouter.get('*', (req, res) => {
 app.use(userRouter)
 
 app.listen(PORT, () => {
-	console.log('Hello PuppetConf')
+	console.log('Hello there Puppet SE!')
 });
